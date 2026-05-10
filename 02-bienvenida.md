@@ -1,6 +1,6 @@
-[← Quiénes Somos](./01-quienes-somos.md) · [Inicio](./README.md)
-
 # 02 — Bienvenida al Equipo
+
+[← Volver al índice](./README.md)
 
 ---
 
@@ -8,79 +8,57 @@
 
 ---
 
-## Imagen Personal
+## Cultura de trabajo
 
-La imagen de cada integrante comunica la calidad de Vanity.
+En Vanity trabajamos con **respeto, orden, responsabilidad, trabajo en equipo y excelencia**. Cada detalle importa: cómo saludamos, cómo hablamos, cómo nos presentamos y cómo cuidamos cada espacio.
+
+---
+
+## Actitud esperada
+
+- ✅ Compromiso y responsabilidad en cada turno
+- ✅ Respeto genuino hacia clientas y compañeras
+- ✅ Buena energía y disposición para aprender
+- ✅ Actitud activa, propositiva y colaborativa
+- ✅ Puntualidad — llegar lista para iniciar, no para prepararse
+
+---
+
+## Lo que NO está permitido
+
+- ❌ Comer frente a clientas o hacer gestos de molestia
+- ❌ Decir "eso no me toca" o perder tiempo con pendientes
+- ❌ Usar redes sociales, ver videos o mandar mensajes personales durante el turno
+- ❌ Usar el celular mientras se realiza un servicio
+- ❌ Chismes, indirectas o malos comentarios sobre compañeras o clientas
+- ❌ Discutir frente a clientas o en espacios visibles
+
+---
+
+## Imagen personal
 
 | Estándar | Detalle |
 |----------|---------|
 | **Cabello** | Limpio y arreglado en todo momento |
 | **Uniforme** | Limpio, completo y en buen estado — obligatorio durante todo el turno |
-| **Higiene** | Buena higiene personal sin excepción |
-| **Presentación** | Profesional, cuidada y congruente con la marca |
+| **Higiene** | Buena higiene personal siempre |
+| **Presentación** | Profesional — recuerda que eres la imagen de Vanity |
 
 ---
 
-## Uso del Uniforme
+## Comunicación interna
 
-El uniforme es **obligatorio** durante el turno. Debe portarse:
-
-- ✅ Limpio
-- ✅ Completo
-- ✅ En buen estado
-- ❌ No modificado sin autorización
-
----
-
-## Uso del Celular
-
-Durante el turno, el celular no debe usarse para asuntos personales.
-
-**No está permitido:**
-- Usar redes sociales
-- Ver videos
-- Enviar mensajes personales frente a clientas
-- Usar el celular mientras se realiza un servicio
+- La comunicación entre el equipo debe ser **clara, directa y respetuosa**
+- No se permiten chismes ni indirectas
+- Los conflictos se resuelven en privado, nunca frente a clientas
+- El canal de escalación es siempre: **Partner → Staff → Manager / IA**
+- Para permisos y ausencias: **siempre directo al Manager / IA**
 
 ---
 
-## Puntualidad y Asistencia
+## Tu compromiso al integrarte a Vanity
 
-La puntualidad es una muestra de respeto hacia las clientas y el equipo.
-
-- Cada integrante debe llegar **lista para iniciar su turno**, no para prepararse en él
-- Llegar con **mínimo 10 minutos de anticipación** para preparar la estación
-- Cualquier retardo o ausencia debe avisarse al Manager **antes de la hora de entrada**
-
-> Para el proceso completo de permisos y ausencias → [06 — Asistencia y Permisos](./06-asistencia-permisos.md)
-
----
-
-## Comportamiento Durante el Turno
-
-Se espera una actitud activa, profesional y colaborativa.
-
-**No se permite:**
-- Comer frente a clientas
-- Hacer gestos de molestia
-- Decir "eso no me toca"
-- Perder tiempo cuando hay actividades pendientes
-
----
-
-## Comunicación Interna
-
-No se permiten chismes, indirectas ni malos comentarios. La comunicación debe ser clara y respetuosa.
-
-- Cualquier inconformidad se expresa **en privado** con el Staff o Manager
-- No se discuten asuntos del equipo frente a clientas
-- No se usan los chats grupales para resolver conflictos
-
----
-
-## Mi Compromiso con Vanity
-
-Al integrarme al equipo Vanity me comprometo a:
+Al ser parte del equipo Vanity me comprometo a:
 
 - [ ] Representar la marca con respeto en todo momento
 - [ ] Cuidar mi imagen personal y profesional
@@ -92,4 +70,4 @@ Al integrarme al equipo Vanity me comprometo a:
 
 ---
 
-*[← Quiénes Somos](./01-quienes-somos.md) · [Inicio](./README.md) · [Siguiente: Protocolo de Citas →](./03-protocolo-citas.md)*
+*[← Quiénes Somos](./01-quienes-somos.md) · [Siguiente: Protocolo de Citas →](./03-protocolo-citas.md)*

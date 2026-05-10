@@ -1,106 +1,111 @@
-[← Bienvenida](./02-bienvenida.md) · [Inicio](./README.md)
-
 # 03 — Protocolo de Citas
 
-### 5 Pasos para un Servicio Excelente
+[← Volver al índice](./README.md)
 
 ---
 
-## Paso 1 — Previo a la Cita
+## Los 5 Pasos para un Servicio Excelente
 
-**Antes de que llegue la clienta:**
-
-- [ ] Estación de trabajo limpia, ordenada y con todos los materiales requeridos
-- [ ] Herramientas esterilizadas y listas
-- [ ] Portanombre de la clienta colocado en su mesa
-- [ ] Confirmar con el Staff si la clienta ya tiene idea del diseño
-- [ ] Revisar en la app el servicio solicitado y preferencias previas
+```
+1. Previo a la Cita  →  2. Recibimiento  →  3. Escucha Activa  →  4. Cita  →  5. Despedida
+```
 
 ---
 
-## Paso 2 — Recibimiento
+### 1 — Previo a la Cita
 
-**Recepción cálida — los primeros 60 segundos definen la experiencia.**
-
-- Saludar **de inmediato** al llegar, sin importar lo que estés haciendo
-- Llamar a la clienta **por su nombre**
-- Sonreír de forma natural, contacto visual, postura abierta
-- Presentarse: *"Hola [Nombre], soy [tu nombre], te voy a atender hoy"*
-- Ofrecer **bebida de cortesía** → [ver Coffee Bar](./10-coffee-bar.md)
-- Conducirla a su lugar — el portanombre debe estar puesto
+- Estación de trabajo en orden con materiales listos y limpios
+- Confirmar con el staff si la clienta ya tiene idea del diseño antes de llegar
+- **El portanombre debe estar colocado en su mesa antes de su llegada**
+- Herramientas esterilizadas y kits armados
 
 ---
 
-## Paso 3 — Escucha Activa
+### 2 — Recibimiento
 
-**Confirmar lo que desea la clienta antes de iniciar.**
+> Saludar de inmediato · Sonreír de forma natural · Llamar por su nombre · Presentarse · Ofrecer bebida · Conducir a su lugar
 
-- Escuchar sus necesidades con empatía
-- Preguntar antes de asumir — **EL QUE PREGUNTA NO SE EQUIVOCA**
-- Recordar preferencias de visitas anteriores (registradas en la app)
-- Si hay cambio de último momento: ajustar y registrar en la app
+| Paso | Detalle |
+|------|---------|
+| Saludar **inmediatamente** | En cuanto cruza la puerta, sin importar lo que estés haciendo |
+| Llamar por su **nombre** | Verificar en la app si tiene cita previa |
+| **Presentarte** | "Hola [Nombre], soy [tu nombre], te voy a atender hoy" |
+| **Bebida de cortesía** | Ofrecer agua, café o lo disponible en el Coffee Bar |
+| **Portanombre listo** | Debe estar puesto antes de que llegue |
 
 ---
 
-## Paso 4 — Durante la Cita
+### 3 — Escucha Activa
 
-**Detalles personalizados que reflejan exclusividad.**
+- Confirmar el servicio y diseño **antes de iniciar** — nunca asumir
+- Escuchar con empatía y recordar preferencias de visitas anteriores
+- Tomar nota de observaciones relevantes para el registro en la app
 
-- Aprender nombres y preferencias de clientas frecuentes
-- Mantener conversación apropiada — amable, sin temas controversiales
+> **"EL QUE PREGUNTA NO SE EQUIVOCA"** — siempre es mejor preguntar que corregir después
+
+---
+
+### 4 — Durante la Cita
+
+- Detalles personalizados: aprender nombres y preferencias de clientas frecuentes
+- Un toque personalizado refleja exclusividad
+- Si la clienta hace un comentario sobre el servicio: actuar de inmediato
 - Respetar el silencio si la clienta no quiere conversar
-- No interrumpir con asuntos del equipo — cualquier coordinación con Staff: **discreta y breve**
-- Ofrecer revisión a mitad del servicio: *"¿Todo bien con el color/diseño hasta ahora?"*
-- Si necesitas apoyo: solicitarlo al Staff de forma **DISCRETA**
+- Si necesitas apoyo: solicitarlo al Staff de forma **discreta**
+- Ofrecer revisión a la mitad: *"¿Todo bien con el color/diseño hasta ahora?"*
 
 ---
 
-## Paso 5 — Despedida
+### 5 — Despedida
 
-**El cierre es tan importante como la bienvenida.**
-
-- Mostrar el resultado terminado — espejo, foto si la clienta desea
-- Preguntar por satisfacción **antes de cobrar**: *"¿Estás contenta con el resultado?"*
-- Retirarse al llegar a recepción para que la clienta tenga confianza de dar feedback
-- Agradecer la visita por su nombre
-- Invitar al programa **VANITY GOLD**
-- Sugerir próxima cita: *"Te recomendamos tu siguiente cita en [X] semanas"*
-- Registrar el servicio y observaciones en la app → [07 — App y Citas](./07-app-citas.md)
-
----
-
-## Manejo de Inconformidades
-
-> Para el flujo completo de escalación → [05 — Escalación y Roles](./05-escalacion-roles.md)
-
-**Pasos inmediatos ante una clienta inconforme:**
-
-1. **Escuchar sin interrumpir** — dejar que exprese completamente
-2. **Validar sin comprometerse** — *"Entiendo que no es lo que esperabas, lo lamento"*
-3. **Mantener la calma** — voz baja, postura tranquila, nunca a la defensiva
-4. **Evaluar si se puede corregir** en el momento — si es posible, hacerlo
-5. **Avisar al Staff** — el Staff evalúa y decide si escala al Manager
-6. **No prometer compensaciones** — solo el Manager puede autorizar descuentos o reembolsos
-7. **Nunca dejar ir a una clienta insatisfecha** sin escalar la situación
-
-**Lo que NUNCA debe ocurrir:**
-
-- ❌ Ignorar a una clienta aunque estés ocupada
-- ❌ Hablar del equipo o de otras clientas frente a ella
-- ❌ Dejar esperando sin explicación por más de 3 minutos
-- ❌ Usar el celular durante el servicio
-- ❌ Cobrar antes de confirmar satisfacción
+| Paso | Detalle |
+|------|---------|
+| Mostrar resultado | Espejo o foto si la clienta desea |
+| **Confirmar satisfacción** | *"¿Estás contenta con el resultado?"* — antes de cobrar |
+| **Retirarte** | Al llegar a recepción, retírate para que hable libremente |
+| Agradecer por nombre | "Gracias [Nombre], fue un placer atenderte" |
+| **VANITY GOLD** | Invitar al programa de fidelidad si no es socia aún |
+| Siguiente cita | Sugerir el tiempo recomendado para el próximo servicio |
 
 ---
 
-## Resolución de Conflictos entre Compañeras
+## Lo que NUNCA debe ocurrir
+
+- ❌ Ignorar a una clienta aunque estés ocupada — saluda y avisa que la atiendes en un momento
+- ❌ Hablar del equipo, otras clientas o asuntos personales frente a ella
+- ❌ Dejarla esperando más de 3 minutos sin explicación
+- ❌ Usar el celular durante el servicio o en su estación
+- ❌ Cobrar antes de confirmar su satisfacción
+
+---
+
+## Resolución de Conflictos e Inconformidades
+
+### Cuando una clienta está inconforme
+
+```
+Escuchar → Validar → Evaluar → Avisar al Staff → No prometer compensaciones
+```
+
+| Paso | Qué hacer |
+|------|-----------|
+| **1. Escuchar** | Sin interrumpir, dejar que exprese su inconformidad completa |
+| **2. Validar** | "Entiendo que no es lo que esperabas, lo lamento" |
+| **3. Mantener calma** | Voz baja, postura tranquila, nunca a la defensiva |
+| **4. Evaluar corrección** | Si se puede corregir en el momento, hacerlo |
+| **5. Avisar al Staff** | El Staff decide si necesita escalar al Manager |
+| **6. No prometer** | Solo el Manager puede autorizar descuentos o reembolsos |
+
+> **Nunca dejar ir a una clienta insatisfecha sin escalar la situación al Staff.**
+
+### Cuando hay conflicto entre compañeras
 
 1. No discutir frente a clientas — retirarse al área privada
 2. Comunicar directamente con la compañera, en tono respetuoso
-3. Si no se resuelve: avisar al Staff (no al Manager en primera instancia)
-4. El Staff media y documenta; si no resuelve, escala al Manager
-5. El Manager toma la decisión final — ambas partes acatan sin continuar el conflicto en turno
+3. Si no se resuelve: avisar al **Staff** (no al Manager en primera instancia)
+4. El Staff media — si no resuelve, escala al Manager con contexto claro
+5. El Manager toma la decisión final — ambas partes acatan
 
 ---
 
-*[← Bienvenida](./02-bienvenida.md) · [Inicio](./README.md) · [Siguiente: Métodos por Servicio →](./04-metodos-servicios.md)*
+*[← Bienvenida](./02-bienvenida.md) · [Siguiente: Métodos por Servicio →](./04-metodos-servicios.md)*
