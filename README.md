@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Manual de Operaciones Vanity
 
-![Logo Vanity](https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/vanity/logo.vanity.svg)
+<img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/refs/heads/main/vanity/logo.vanity.svg" width="150" alt="Logo Vanity">
 
 **The Experience** — Salon & SPA
 
@@ -22,6 +22,10 @@ Este repositorio contiene el manual de operaciones de Vanity Salon & SPA, fundad
 | 05 | [Escalacion de Roles](./05-escalacion-roles.md) | Lineas de mando y procedimientos de escalacion |
 | 06 | [Asistencia y Permisos](./06-asistencia-permisos.md) | Politicas de asistencia, permisos y vacaciones |
 | 07 | [App de Citas](./07-app-citas.md) | Guia de uso de la aplicacion de reservas |
+| 08 | [Limpieza](./08-limpieza.md) | Protocolos de limpieza e higiene |
+| 09 | [Inventario](./09-inventario.md) | Gestion de inventario y productos |
+| 10 | [Coffee Bar](./10-coffee-bar.md) | Servicio de cafeteria y bebidas |
+| 11 | [Cursos](./11-cursos.md) | Informacion sobre academiay cursos |
 
 ## Vanity Experience
 
