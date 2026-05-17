@@ -13,19 +13,30 @@ Este repositorio contiene el manual de operaciones de Vanity Salon & SPA, fundad
 
 ## Secciones del Manual
 
-| # | Capitulo | Descripcion |
-|---|----------|-------------|
-| 01 | [Quienes Somos](./01-quienes-somos.md) | Historia y filosofia de Vanity |
-| 02 | [Bienvenida](./02-bienvenida.md) | Carta de bienvenida a nuevos miembros del equipo |
-| 03 | [Protocolo de Citas](./03-protocolo-citas.md) | Procedimientos para la gestion de reservas |
-| 04 | [Metodos de Servicios](./04-metodos-servicios.md) | Estandares tecnicos de cada servicio |
-| 05 | [Escalacion de Roles](./05-escalacion-roles.md) | Lineas de mando y procedimientos de escalacion |
-| 06 | [Asistencia y Permisos](./06-asistencia-permisos.md) | Politicas de asistencia, permisos y vacaciones |
-| 07 | [App de Citas](./07-app-citas.md) | Guia de uso de la aplicacion de reservas |
-| 08 | [Limpieza](./08-limpieza.md) | Protocolos de limpieza e higiene |
-| 09 | [Inventario](./09-inventario.md) | Gestion de inventario y productos |
-| 10 | [Coffee Bar](./10-coffee-bar.md) | Servicio de cafeteria y bebidas |
-| 11 | [Cursos](./11-cursos.md) | Informacion sobre academiay cursos |
+| # | Capitulo | Subtemas |
+|---|----------|----------|
+| 00 | [Introduccion](./00-introduccion/) | Bienvenida, Como Utilizar, Filosofia, Objetivo, Actualizaciones, Mejora Continua |
+| 01 | [Quienes Somos](./01-quienes-somos/) | Historia, Que Representa, Filosofia, Diferenciadores, Estandares, Cultura, Vision, Experiencia |
+| 02 | [Bienvenida al Equipo](./02-bienvenida-equipo/) | Que Significa, Actitud, Conducta, No Permitido, Comunicacion, Respeto, Equipo, Compromiso |
+| 03 | [La Experiencia Vanity](./03-experiencia-vanity/) | Que Debe Sentir, Atencion Premium, Lenguaje, Recibir, Esperas, Durante Visita, Despedir, Molestias |
+| 04 | [Imagen Personal](./04-imagen-personal/) | Presentacion, Uniforme, Cabello, Higiene, Maquillaje, Accesorios, Perfume, Estandar |
+| 05 | [Conducta Profesional](./05-conducta-profesional/) | Profesionalismo, Celular, Redes, Comunicacion, Puntualidad, Actitud, Conflictos, Estandar |
+| 06 | [Limpieza y Orden](./06-limpieza-orden/) | Estandar, Estaciones, Herramientas, Recepcion, Areas, Banos, Responsabilidad, Checklist, Protocolos |
+| 07 | [Apertura del Salon](./07-apertura-salon/) | Objetivo, Espacio, Recepcion, Estaciones, Musica, Agenda, Insumos, Checklist, Puntualidad |
+| 08 | [Protocolo de Citas](./08-protocolo-citas/) | Agenda, Confirmacion, Puntualidad, Reagendaciones, Cancelaciones, No-Shows, Seguimiento, Comunicacion, Flujo |
+| 09 | [Recepcion de Clientas](./09-recepcion-clientas/) | Primer Contacto, Bienvenida, Comunicacion, Recepcion, Esperas, Ambiente, Atencion, Experiencia |
+| 10 | [Durante el Servicio](./10-durante-servicio/) | Atencion, Comunicacion, Profesionalismo, Limpieza, Comodidad, Celular, Situaciones, Detalle, Estandar |
+| 11 | [Cierre de Servicio](./11-cierre-servicio/) | Verificacion, Atencion Final, Recomendaciones, Satisfaccion, Pago, Despedida, Experiencia, Estandar |
+| 12 | [Cierre del Salon](./12-cierre-salon/) | Objetivo, Limpieza, Organizacion, Herramientas, Recepcion, Inventario, Checklist, Seguridad, Preparacion |
+| 13 | [Comunicacion y Escalacion](./13-comunicacion-escalacion/) | Profesional, Equipo, Escalacion, Problemas, Manager, Conflictos, Canales, Estandar |
+| 14 | [Permisos y Ausencias](./14-permisos-ausencias/) | Puntualidad, Retardos, Permisos, Ausencias, Emergencias, Cambios, Responsabilidad, Comunicacion |
+| 15 | [Inventario y Productos](./15-inventario-productos/) | Organizacion, Uso Responsable, Herramientas, Faltantes, Control, Almacenamiento, Cuidado, Responsabilidad |
+| 16 | [Caja y Pagos](./16-caja-pagos/) | Cobro, Metodos, Caja, Registro, Cortes, Propinas, Diferencias, Protocolos |
+| 17 | [Capacitacion](./17-capacitacion/) | Aprendizaje, Entrenamientos, Atencion Cliente, Protocolos, Evaluaciones, Retroalimentacion, Actualizacion, Desarrollo |
+| 18 | [Estandares de Calidad](./18-estandares-calidad/) | Objetivos, Evaluacion, Supervision, Experiencia Clienta, Detalle, Consistencia, Mejora, Excelencia |
+| 19 | [Protocolos Especiales](./19-protocolos-especiales/) | Quejas, Situaciones Dificiles, Accidentes, Emergencias, Tecnicos, Escalacion, Seguridad, Crisis |
+| 20 | [Conociendo a Nuestras Clientas](./20-conociendo-clientas/) | Importancia, Tipos, Marta, Sofia, Laura, Carla, Julieta, Adaptar, Situaciones, Escalacion |
+| 21 | [Cierre y Compromiso](./21-cierre-compromiso/) | Filosofia, Compromiso, Responsabilidad, Confirmacion, Firma, Versionado, Actualizaciones |
 
 ## Vanity Experience
 
